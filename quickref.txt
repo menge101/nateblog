@@ -1,0 +1,2 @@
+Code:  4 spaces or tab
+Images: ![Alt-text](link_to_image)

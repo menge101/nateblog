@@ -1,0 +1,140 @@
+html { margin: 0px }
+body {
+  font-family: 'Baskerville', Georgia, Times, serif;
+  font-size: 20px;
+  line-height: 30px;
+  width: 100%;
+  background-color: #831504;
+  color: #FFFFFF;
+}
+a { color: #FFFFFF }
+header {
+    margin-top: 0px;
+    display: block;
+    background-color: #FFFFFF;
+    text-align: center;
+    color: #ff0000;
+}
+section, article {
+	margin: 10px;
+    display: block;
+}
+footer {
+    color: #B2450D;
+    margin: 30px;
+    display: block;
+    font-style: italic;
+    font-size: 18px;
+}
+
+#by {
+	font-style: italic;
+  margin-right: 5px;
+	font-size: 28px;
+}
+#caption {
+	position: absolute;
+	font-size: 24px;
+	margin: -135px 0 0 70px;
+}
+
+.date {
+  font-style: italic;
+  float: right;
+  line-height: 43px;
+  margin-right: 30px;
+}
+
+.logo {
+  float: none;
+  margin: 0 auto;
+  height: 100px;
+}
+
+h1 a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+body > header > h1 {
+  border-left: 30px #831504;
+  padding-left: 30px;
+  font-size: 20px;
+  font-weight: normal;
+}
+.post header {
+	margin-bottom: 0px;
+}
+.post .body p:first-child {
+	margin-top: 0;
+}
+.post .body p:last-child {
+	margin-bottom: 0;
+}
+.post {
+	margin-bottom: 30px;
+}
+.post:last-child {
+  margin-bottom: 10px;
+}
+.post p {
+  margin: 10px 0;
+}
+.post .more {
+  margin-top: -10px;
+  margin-right: 30px;
+  font-style: italic;
+  text-align: right;
+}
+.more a {
+  text-decoration: none;
+}
+.more a:hover { text-decoration: underline }
+body > header {
+	display: block;
+	padding-top: 30px;
+	#line-height: 180px;
+	margin-bottom: 0px;
+}
+h1, h2, h3, h4 {
+  display: inline;
+  margin: 0;
+  #font-weight: 600;
+}
+ul, li {
+  list-style-type: none;
+}
+code {
+  font-family: 'Anonymous Pro', 'Bitstream Vera Sans', 'Monaco', Courier, mono;
+}
+pre {
+  padding: 20px;
+}
+blockquote {
+  font-style: italic;
+}
+
+body > footer > a {
+  color: #cc5619
+}
+
+svg {width: 50%; height: auto;}
+
+pre {
+    font-family: "Courier 10 Pitch", Courier, monospace;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 95%;
+    line-height: 140%;
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+    background: #831504;
+    color: #ffffff;
+    background: #141414;
+    color: #45D40C;
+    font: 1.0em 'Andale Mono', Consolas, 'Courier New';
+    line-height: 1.6em;
+}
