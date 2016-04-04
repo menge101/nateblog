@@ -48,7 +48,8 @@ footer {
 .logo {
   float: none;
   margin: 0 auto;
-  height: 100px;
+  min-height: 100px;
+  min-width: 100px;
 }
 
 h1 a {
@@ -122,7 +123,10 @@ body > footer > a {
   color: #cc5619
 }
 
-svg {width: 50%; height: auto;}
+svg {
+  width: 50%;
+  height: auto;
+}
 
 pre {
     font-family: "Courier 10 Pitch", Courier, monospace;
