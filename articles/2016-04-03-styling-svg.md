@@ -44,7 +44,7 @@ The following CSS is applied to the logo:
 This makes for a simple but easily modified logo.  
 ![Original](http://i.imgur.com/brfVo3h.png)
     
-A simple modification of the CSS to this:  
+A slight modification of the CSS to this:  
 
     .logo-lines {
       fill: #ff0fff;
