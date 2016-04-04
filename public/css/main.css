@@ -52,6 +52,23 @@ footer {
   min-width: 100px;
 }
 
+.logo-lines {
+  fill: #ffffff;
+  image-rendering:auto;
+}
+
+.logo-fill {
+  fill: #ff0000;
+}
+
+.x-wrench {
+    fill: #ff0000;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 15;
+    stroke: #ffffff;
+}
+
 h1 a {
   text-decoration: none;
 }
