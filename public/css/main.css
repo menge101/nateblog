@@ -145,7 +145,7 @@ svg {
   height: auto;
 }
 
-pre {
+pre, p > img {
     font-family: "Courier 10 Pitch", Courier, monospace;
     margin-left: 5%;
     margin-right: 5%;
@@ -155,10 +155,8 @@ pre {
     white-space: pre-wrap;
     white-space: -moz-pre-wrap;
     white-space: -o-pre-wrap;
-    background: #831504;
-    color: #ffffff;
     background: #141414;
     color: #45D40C;
-    font: 1.0em 'Andale Mono', Consolas, 'Courier New';
+    font: 0.75em 'Andale Mono', Consolas, 'Courier New';
     line-height: 1.6em;
 }

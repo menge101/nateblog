@@ -63,5 +63,5 @@ A simple modification of the CSS to this:
         stroke: #000000;
     } 
     
-Makes a image that looks like this:      
+Makes an image that looks like this:      
 ![Altered](http://i.imgur.com/q8lajzX.png)
